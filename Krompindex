@@ -1,0 +1,231 @@
+
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="robots" content="kromptonelevator.com, follow" />
+        <meta name="keywords" content="Elevators  escilators in jammu,Sahil Kotwal,Sachin elevatos , Krompton Elevators ,elevators, lifts, escalators, in jammu" />
+        
+        <meta name="description" content="We manufacture a wide range of elevators and elalators that are based on VVVF technology. Ensuring smooth and quiet ride, these lifts are compact in size and results in reduced energy costs an maintenance costs">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Krompton</title>
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        
+       
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.cycle.all.js"></script>
+        <script type="text/javascript" src="js/tt.js"></script>
+        <script type="text/javascript">
+
+        $(document).ready(function(){
+
+            $('.slider').cycle({ 
+
+                 
+         
+    fx:    'zoom', 
+    sync:  false, 
+    delay: -2000  
+              });
+
+        
+        });
+        
+        </script>
+        
+
+        
+       
+        
+    </head>
+    <body>
+        <div id="header">
+           <a href="index.html"> <div id="logo"></div></a>
+                            
+               <div id="nav">
+                    <ul>
+                       <a href="index.html"><li>Home</li></a>
+                        <a href="about.html"><li>About Us</li></a>
+                        <a href="contact.html"><li>Contact</li></a>
+                        <a href="mnfctre.html"><li>We Manufacture</li></a>
+                        <a href="http://gallery.kromptonelevator.com/"><li>Gallery</li></a>
+                    </ul>
+                        
+
+                </div>
+        </div>
+        <div id="a"></div>
+
+
+
+
+        
+        
+        <div id="ist">
+          
+
+            <!--<div id ="container">
+                    <div class="isttxt"><p>THE KROMPTON</p></div>
+                    <div class="isttxt"><p>Serving you</p></div>
+                    <div class="isttxt"><p>Since 2012</p></div>
+            </div>-->
+          
+
+           <a href="contact.html"> <div id="t7"></div></a>
+
+            
+
+
+         </div>
+                 <div class="slider">
+                                <img src="img/e1.jpg"/>
+                                <img src="img/e2.jpg"/>
+                                <img src="img/e3.jpg"/>
+                                <img src="img/e4.jpg"/>
+                                
+
+                   </div>
+
+
+
+         <div id="cont">
+            <div id="pic"></div>
+            <div id="haw"><h5>Hello And Welcome</h5></div>
+            <div id="txt">  <p>We manufacture a wide range of elevators and elalators that are based on VVVF technology. Ensuring smooth and quiet ride, these lifts are compact in size and results in reduced energy costs an maintenance costs. Available in various sizes and dimensions, these products find their usage in different commercial centers, corporate and industries. Our range of lifts include:.</p>  </div>
+
+
+
+         </div>
+
+
+
+        <div class="contri">
+          <div id="contripic1"></div>
+          <div class="contrittl"><p>Our Products</p></div>
+          <div class="contritext">
+            <a href="mnfctre.html"><ol>
+                <li>Passenger Elevators</li>
+                <li>Glass Elevators</li>
+                <li>Hospital Elevators</li>
+                <li>Hydraulic Elevetors</li>
+                <li>Machine Room Less Elevators</li>
+                <li>Dumbwaiter Elevators</li>
+                <li>Commercial Escalators</li>
+                <li>Passenger Lifts</li>
+               
+                
+                
+        </0l></a>
+
+          </div>
+
+        </div>
+
+
+         <div class="contri">
+              <div id="contripic2"></div>
+              <div class="contrittl"><p>Why Krompton</p></div>
+              <div class="contritext"><p>Selling myself in few words... If you’re after a high quality, well made, great looking products, then we could be your stop.</p></div>
+         </div>
+        
+
+
+         <div class="contri">
+             <div id="contripic3"></div>
+              <div class="contrittl"><p>Area Of Operation</p></div>
+              <div class="contritext"><a href="about.html">
+                <ol>
+                    <li>Turnkey Projects Handling and Contracting</li>
+                    <li>Installation</li>
+                    <li>Servicing</li>
+                    <li>Testing and Commissioning</li>
+                    <li>Maintenance</li>
+                    <li>Consulting Services</li>
+                    <li>Equipment Upgrading</li>
+                    <LI>Modernization and Recognition</LI>
+                </ol></a>
+              </div>
+         </div>
+       <div id="third"></div> 
+
+
+
+
+
+
+
+
+      
+
+
+        <div id="footer">
+            <div id="ftl">
+                <h4>Talk to us</h4>
+            </div>
+
+<div align=center><a href='http://www.sahilkotwal.com'><img src='http://www.counter12.com/img-6aAz0zb6-9.gif' border='0' alt='free counter'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=6aAz0zb6'></script></div>
+
+
+
+                  <div id="block">
+            <a href="https://www.facebook.com/kromptonElevator"><div id="scl1"><h6>Facebook</h6></div></a>
+            <a href="http://www.linkedin.com/profile/view?id=333677149&trk=nav_responsive_tab_profile"><div id="scl2"><h6>Linked in</h6></div></a>
+            <a href="linkedin/asd"><div id="scl3"><h6>Skype</h6></div></a>
+                 </div>
+                 <div id="kromp"><span>The Krompton</span></div>
+
+
+
+                 
+                 <div class="f1">
+                    <span>Copyright :</span>
+                    <p>KromptonElevator.com</p>
+                    <p>© 2012 All Rights Reserved</p>
+
+                 </div>
+                 <div class="f1">
+                    <span>Contact Details:</span>
+                    <p>Ph.: +91-9419339292 / +91-9018222262</p>
+                    <p>Email :Mail@kromptonelevator.com</p>
+                 </div>
+
+                 <div class="f1">
+                    <span>Designed By :</span>
+                    <p>Sahil Kotwal</p>
+                    <p>mail@sahilkotwal.com  (9906286635)</p>
+                    
+                 </div>
+
+        </div>
+
+
+
+
+
+       
+
+
+
+
+            
+                
+                
+                
+                
+               
+            
+        
+        
+      
+    
+
+<!--          --------------  upto this                -------->
+
+        <!--                   -------------------              -------->
+        
+    </body>
+</html>
